@@ -1,0 +1,8 @@
+﻿  main.cpp
+  context.cpp
+  concretestrategyn.cpp
+  concretestrategy1.cpp
+  concretestrategy.cpp
+  client.cpp
+  Generating Code...
+  Strategy_v1.vcxproj -> C:\Users\pi\source\repos\CST276SRS02\x64\Debug\GoFStrategy.exe
